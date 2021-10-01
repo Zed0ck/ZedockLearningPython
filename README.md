@@ -13,3 +13,8 @@ First I will write simple programs to learn Python syntax and then I will move f
 At last I hope I could code some useful programs with Python. 
 
 This all is just for fun and learning purposes. Maybe one day I'm a developer who can do something useful with skills of coding.
+
+## Lesson One
+Here we learn how to print strings and get input from user.
+We also learn how to use variables to store data and use it later.
+
