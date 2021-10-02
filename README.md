@@ -18,3 +18,6 @@ This all is just for fun and learning purposes. Maybe one day I'm a developer wh
 Here we learn how to print strings and get input from user.
 We also learn how to use variables to store data and use it later.
 
+## Lesson Two
+Here we learn to use for loop anf if statement to comparison variable values. 
+We created Guess the Number game where we learned to use new function random from random library.
