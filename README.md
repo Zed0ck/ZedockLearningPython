@@ -24,3 +24,6 @@ We created Guess the Number game where we learned to use new function random fro
 
 ## Lesson Three
 Here we learn how to use escape characters.
+
+## Lesson Four
+Here we learn how use functions so you don't have to copy paste your code over and over again if you want to use same code again. We also use time library.
