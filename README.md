@@ -21,3 +21,6 @@ We also learn how to use variables to store data and use it later.
 ## Lesson Two
 Here we learn to use for loop anf if statement to comparison variable values. 
 We created Guess the Number game where we learned to use new function random from random library.
+
+## Lesson Three
+Here we learn how to use escape characters.
